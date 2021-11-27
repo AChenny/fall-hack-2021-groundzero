@@ -15,12 +15,5 @@ heatmap = gmaps.heatmap_layer(locations, weights=weights)
 heatmap.max_intensity = 3.5
 heatmap.weights = [3, 3, 3]
 fig.add_layer(heatmap)
-
-# heatmap = gmaps.heatmap_layer(locations)
-# heatmap.max_intensity = 2
-# heatmap.point_radius = 3
-# heatmap.gradient = ['white', 'gray']
-# fig.add_layer(heatmap)
-
 embed_minimal_html('export.html', views=[fig])
 
