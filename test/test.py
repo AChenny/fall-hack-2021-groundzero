@@ -8,7 +8,7 @@ fig = gmaps.figure()
 # locations = [(46.1, 5.2), (46.2, 5.3), (46.3, 5.4)]
 # fig.add_layer(gmaps.heatmap_layer(locations))
 # fig = gmaps.figure(center=(49, -122.0), zoom_level=8)
-#url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522%2C151.1957362&radius=1500&type=restaurant&keyword=cruise&key=YOUR_API_KEY"
+
 locations = [(46.1, 5.2), (46.2, 5.3), (46.3, 5.4)]
 weights = [0.5, 0.2, 0.8]
 heatmap = gmaps.heatmap_layer(locations, weights=weights)
