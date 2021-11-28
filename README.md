@@ -11,7 +11,7 @@
 Clone this repository to your computer and set up a python virtual environment
 
 # Building Ground Zero
-`Ground Zero` was developed with Python version 3.8.10. Development was set up with `virtualenv` in order to manage dependencies an enable future development. To develop, clone this repository and follow the steps below for setting up a python virtual environment.
+`Ground Zero` was developed with Python version 3.10. Development was set up with `virtualenv` in order to manage dependencies an enable future development. To develop, clone this repository and follow the steps below for setting up a python virtual environment.
 
 ## Seting up a Virtual Environment
 To check if you already have `virtualenv` run this command:
