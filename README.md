@@ -43,5 +43,7 @@ py -m pip install virtualenv
    ```
 
 
-# Building Ground Zero
-'django manage.py runserver'
+# Building Ground Zero  
+    ```
+    django manage.py runserver
+    ```
