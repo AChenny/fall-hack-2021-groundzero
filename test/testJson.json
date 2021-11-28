@@ -1,984 +1,928 @@
 {
-    "html_attributions" : [],
-    "next_page_token" : "Aap_uED7aOFijfAJ2riyu5yw6rNoGavK7wQmiAT4JqVfHeUklMwPiF4Vac5lEjlliOhnbtYqbMDcMs1pZEsBnoY7dsYuM9uzPKlSgm0h_5lQtZ1WlPuxttV9TEeQ3WA4l03XiVYA0Lt6ClzVEDco_VEw7OjpRonHnzbE2AVkflWSeYyj95aLiQ0bzsQKjVxhBayRZjmCzEZM_QK_YNQ79Llo_a9uUZjgqGHaKyGv_wTBZ8rRGCJ-yNzbFj-AgwxpFfcaHoTHzUSGJRBJsqc_qIEU8rKxoe0yBj2RlN9hmWPVHeF4_vtbsvJZleD17xW76WLOGnSdy6rpoVXLRYd1KpPkdKeRT3wS109Pt9dfyp9fik3aOCiAb6RVZytJtMVXlO2LiIFU7znXrIXO5iO1opO19Mvj8Xs_iG7Ndh4xEKWWEjP7FftDhRMjceetQrkx",
-    "results" : [
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2837112,
-                "lng" : -123.1211176
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.2850760302915,
-                   "lng" : -123.1196651197085
-                },
-                "southwest" : {
-                   "lat" : 49.2823780697085,
-                   "lng" : -123.1223630802915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
-          "icon_background_color" : "#909CE1",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
-          "name" : "Fairmont Hotel Vancouver",
-          "opening_hours" : {
-             "open_now" : true
-          },
-          "photos" : [
-             {
-                "height" : 1440,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/116749430061067994858\"\u003eFairmont Hotel Vancouver\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uEAjiexlXs9_p5cXeMmrABwyCbSwFZ8FjFa6aNyJVdnz5p3gtTi4aPQa_swjItZdSAjmh_wCD0TI6JsFityN6XH4DHBDC9YZFPbBJ_NugagsnqRMnE4m4zKvOHstacOFv4rWhX34Jztr8kga9DSSIgw67Ua41CZ10UXuCwywqrkfMOL2",
-                "width" : 2560
-             }
-          ],
-          "place_id" : "ChIJHbH93TGoqEwRMwrQGCOk9B4",
-          "plus_code" : {
-             "compound_code" : "7VMH+FH Vancouver, BC, Canada",
-             "global_code" : "84XR7VMH+FH"
-          },
-          "rating" : 4.5,
-          "reference" : "ChIJHbH93TGoqEwRMwrQGCOk9B4",
-          "scope" : "GOOGLE",
-          "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 4315,
-          "vicinity" : "900 West Georgia Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2746032,
-                "lng" : -123.1226017
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.27589193029149,
-                   "lng" : -123.1211572197085
-                },
-                "southwest" : {
-                   "lat" : 49.27319396970849,
-                   "lng" : -123.1238551802915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
-          "icon_background_color" : "#909CE1",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
-          "name" : "OPUS Vancouver",
-          "photos" : [
-             {
-                "height" : 3310,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/109243913535211669274\"\u003eOPUS Vancouver\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uECjNlpl2Cch9N4eqip06LLopc5CHHl2ARbR4cOtcsQ_-vb6pyrwcdil9X4zu-cXzT-pU7_w4rLuVLVuSKTtGC422W4diwgcv7dp4WCVmuTqb3lDwekb_9D5gxbbjWdwmoQ8j9YcaqVidjWybFsKmxshHkOJv2nsqhAHZU9GEjqA_zY_",
-                "width" : 4073
-             }
-          ],
-          "place_id" : "ChIJkYNgwtZzhlQRDyKMepVlARQ",
-          "plus_code" : {
-             "compound_code" : "7VFG+RX Vancouver, BC, Canada",
-             "global_code" : "84XR7VFG+RX"
-          },
-          "rating" : 4.6,
-          "reference" : "ChIJkYNgwtZzhlQRDyKMepVlARQ",
-          "scope" : "GOOGLE",
-          "types" : [
-             "lodging",
-             "bar",
-             "restaurant",
-             "food",
-             "point_of_interest",
-             "establishment"
-          ],
-          "user_ratings_total" : 482,
-          "vicinity" : "322 Davie Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2882282,
-                "lng" : -123.1166996
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.2894079302915,
-                   "lng" : -123.1153732697085
-                },
-                "southwest" : {
-                   "lat" : 49.2867099697085,
-                   "lng" : -123.1180712302915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
-          "icon_background_color" : "#909CE1",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
-          "name" : "Fairmont Pacific Rim",
-          "opening_hours" : {
-             "open_now" : true
-          },
-          "photos" : [
-             {
-                "height" : 1927,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/110850236476136480926\"\u003eFairmont Pacific Rim\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uEDHU_YyRTqr4q6rV2w9sZ-doN-bmLP_XpAk2WfX-eLqxevgKWegN3P_QZ6m0BjyfiFBy-8aQdTlwCl7sp9p7lDlUPn3kgYbZC4aA7TwpmGkBCtI-rzRUIsfYJMYpA4RuF7OBa0H2lTaS7PRWdCs6erl2JI1p1brPPvzsN1bA_tKyKQa",
-                "width" : 3000
-             }
-          ],
-          "place_id" : "ChIJgzLyCINxhlQRkHq8urzYQ2Y",
-          "plus_code" : {
-             "compound_code" : "7VQM+78 Vancouver, BC, Canada",
-             "global_code" : "84XR7VQM+78"
-          },
-          "rating" : 4.6,
-          "reference" : "ChIJgzLyCINxhlQRkHq8urzYQ2Y",
-          "scope" : "GOOGLE",
-          "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 3991,
-          "vicinity" : "1038 Canada Place, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2883412,
-                "lng" : -123.1205038
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.2895800302915,
-                   "lng" : -123.1193170197085
-                },
-                "southwest" : {
-                   "lat" : 49.2868820697085,
-                   "lng" : -123.1220149802915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
-          "icon_background_color" : "#909CE1",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
-          "name" : "Pinnacle Hotel Harbourfront",
-          "opening_hours" : {
-             "open_now" : true
-          },
-          "photos" : [
-             {
-                "height" : 1089,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/105506034174032458141\"\u003ePinnacle Hotel Harbourfront\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uECMQ0-5wPYY3P4geKuNbAOj_5Smp_ltNJYA06vvz0P3DDXtcMDq9yfMP8HDUqBfxS2KYta44KtijoLRYX6N7OdhBN6r84LbBZxD49wntV16h9qbkbwx1BYCvJVSRMQoNJdhbT6AagWAeD-MEiiB2d0fpIbxF0gWlszmaxrdd4csK5Ei",
-                "width" : 2048
-             }
-          ],
-          "place_id" : "ChIJYyXi7YNxhlQRUxgGSBaVYGc",
-          "plus_code" : {
-             "compound_code" : "7VQH+8Q Vancouver, BC, Canada",
-             "global_code" : "84XR7VQH+8Q"
-          },
-          "rating" : 4.1,
-          "reference" : "ChIJYyXi7YNxhlQRUxgGSBaVYGc",
-          "scope" : "GOOGLE",
-          "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 3285,
-          "vicinity" : "1133 West Hastings Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2825272,
-                "lng" : -123.123559
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.28397518029149,
-                   "lng" : -123.1223286697085
-                },
-                "southwest" : {
-                   "lat" : 49.28127721970849,
-                   "lng" : -123.1250266302915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "Italian Kitchen",
-          "opening_hours" : {
-             "open_now" : true
-          },
-          "photos" : [
-             {
-                "height" : 1072,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/116209568477141677501\"\u003eItalian Kitchen\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uEAep5hwmYERa0hU_FHxNfktRIeKnaFkw4HJqesMPDwP_XyTBCz1tt6kSZCUJrlhEuVy3WJBaUyPynm-31x2t80lGb6ABwRQxrYbL5wm0byQa99jJO4VgAr2qYQ0qriYNByX7o_fmZyx9PziXZzPEjuGfdLNCrL2oiAO0EmXeR2bEnqP",
-                "width" : 959
-             }
-          ],
-          "place_id" : "ChIJxRdotIFxhlQRY7DFe7zRkho",
-          "plus_code" : {
-             "compound_code" : "7VMG+2H Vancouver, BC, Canada",
-             "global_code" : "84XR7VMG+2H"
-          },
-          "price_level" : 3,
-          "rating" : 4.2,
-          "reference" : "ChIJxRdotIFxhlQRY7DFe7zRkho",
-          "scope" : "GOOGLE",
-          "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 1710,
-          "vicinity" : "860 Burrard Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2801271,
-                "lng" : -123.109935
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.28152053029149,
-                   "lng" : -123.1086329197085
-                },
-                "southwest" : {
-                   "lat" : 49.2788225697085,
-                   "lng" : -123.1113308802915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "Chambar Restaurant",
-          "opening_hours" : {
-             "open_now" : false
-          },
-          "photos" : [
-             {
-                "height" : 1365,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/107770196061871220304\"\u003eChambar Restaurant\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uECqA9YvGFyFO7C5wuBG141nSei_iV_D-Dk-YhMNgDRpBJQYMkL2F5dHPFT3HF_gysx6EWW4sL7sBUCq_qGgASKGDeWRmqLk9tiC_m7cZXtCEM9IJ_jgS3ChkkIWYSdKxAhMWemq8MbrAcyShzBtTMnUr_jG154Zs_J6gZhXXBHAOAmS",
-                "width" : 2048
-             }
-          ],
-          "place_id" : "ChIJq2tI6HtxhlQRBaKUv59cS9E",
-          "plus_code" : {
-             "compound_code" : "7VJR+32 Vancouver, BC, Canada",
-             "global_code" : "84XR7VJR+32"
-          },
-          "price_level" : 3,
-          "rating" : 4.5,
-          "reference" : "ChIJq2tI6HtxhlQRBaKUv59cS9E",
-          "scope" : "GOOGLE",
-          "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 3096,
-          "vicinity" : "568 Beatty Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.286476,
-                "lng" : -123.1152999
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.2877484802915,
-                   "lng" : -123.1140172697085
-                },
-                "southwest" : {
-                   "lat" : 49.28505051970851,
-                   "lng" : -123.1167152302915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-          "icon_background_color" : "#7B9EB0",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
-          "name" : "Terminal City Club",
-          "opening_hours" : {
-             "open_now" : true
-          },
-          "photos" : [
-             {
-                "height" : 608,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/114353407882149814933\"\u003eTerminal City Club\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uEBTYc_0Sy8hv1SPNMQEs_I5yC-pqgx4WwK5u0u8gL3YHuaXGrBGdtkY0XyjsfXUmLUAW-1KVGEsp2TeEAiKGT2e_tKxMA7eUypp9fzH7P258yTp_L7BgObg9NBvSKYwno1V0Qr1vq-SkO2mGaivOVlpB2R19UJVgp-omW9AK3QdChE3",
-                "width" : 1080
-             }
-          ],
-          "place_id" : "ChIJG1q7FW1xhlQRwJSZ3RfdoeE",
-          "plus_code" : {
-             "compound_code" : "7VPM+HV Vancouver, BC, Canada",
-             "global_code" : "84XR7VPM+HV"
-          },
-          "rating" : 4.6,
-          "reference" : "ChIJG1q7FW1xhlQRwJSZ3RfdoeE",
-          "scope" : "GOOGLE",
-          "types" : [
-             "restaurant",
-             "food",
-             "gym",
-             "health",
-             "point_of_interest",
-             "establishment"
-          ],
-          "user_ratings_total" : 470,
-          "vicinity" : "837 West Hastings Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2834354,
-                "lng" : -123.1063868
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.2848649802915,
-                   "lng" : -123.1051136197085
-                },
-                "southwest" : {
-                   "lat" : 49.2821670197085,
-                   "lng" : -123.1078115802915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "Jules Bistro",
-          "opening_hours" : {
-             "open_now" : true
-          },
-          "photos" : [
-             {
-                "height" : 2080,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/113542394547696374821\"\u003eCaro T\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uECaHA-uE3FCU3W-9En-Tmh80stlCUUB0OFwufX7ZpwC1VK9MzCJ7bkbQmZTBE8HLE7vYzydznY9_4QsrTJVsKjugvPBeIN7ZSi56uWF5JNXO--VHyHfPPdqdpQJzv5pxU1KLPm89UhIaorixZXxOCruA59RsoLhHVmOj-kKipoWwVIf",
-                "width" : 4160
-             }
-          ],
-          "place_id" : "ChIJi9Ix4HlxhlQRR9d6rVYjsFA",
-          "plus_code" : {
-             "compound_code" : "7VMV+9C Vancouver, BC, Canada",
-             "global_code" : "84XR7VMV+9C"
-          },
-          "price_level" : 2,
-          "rating" : 4.4,
-          "reference" : "ChIJi9Ix4HlxhlQRR9d6rVYjsFA",
-          "scope" : "GOOGLE",
-          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 561,
-          "vicinity" : "216 Abbott Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2800585,
-                "lng" : -123.1252308
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.28154603029149,
-                   "lng" : -123.1236504197085
-                },
-                "southwest" : {
-                   "lat" : 49.27884806970849,
-                   "lng" : -123.1263483802915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "Gyu-Kaku Japanese BBQ",
-          "opening_hours" : {
-             "open_now" : true
-          },
-          "photos" : [
-             {
-                "height" : 2526,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/112472939197804888858\"\u003eAída Coronel\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uEApMspLYaOXr9VbRZEi_0HnlBQe4rVgm8BMlv3u_Yi3jYP9bwfkCkGReUNOT5oB73VHIiJ6zFrauq_SVIsa2YjyCei1DQX4SWrsaxtEOYSs6czwJhm1myvu5WMcwXXMppmkRA8pCn2zQKXa-zncsYoNn8xYO3xZeFjw0RmhTbXyRsvU",
-                "width" : 3372
-             }
-          ],
-          "place_id" : "ChIJJzFAF9VzhlQRENeLwMlDVl8",
-          "plus_code" : {
-             "compound_code" : "7VJF+2W Vancouver, BC, Canada",
-             "global_code" : "84XR7VJF+2W"
-          },
-          "price_level" : 2,
-          "rating" : 4.5,
-          "reference" : "ChIJJzFAF9VzhlQRENeLwMlDVl8",
-          "scope" : "GOOGLE",
-          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 2503,
-          "vicinity" : "888 Nelson Street g3, Vancouver"
-       },
-       {
-          "business_status" : "CLOSED_TEMPORARILY",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.27889159999999,
-                "lng" : -123.1130907
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.28040238029149,
-                   "lng" : -123.1119159697085
-                },
-                "southwest" : {
-                   "lat" : 49.27770441970849,
-                   "lng" : -123.1146139302915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
-          "name" : "Moxie's Grill & Bar",
-          "permanently_closed" : true,
-          "photos" : [
-             {
-                "height" : 3024,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/107573357475843300913\"\u003eLevi Van Doren\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uEAf0_ugVA1W0s4SbenOSDox-56J6Pg2yVhhFxHHQTSx4L2CyIiCbqC_02tq7rVI1kB3z0jjiUvSt_cLYykZU6N7CeFGmwV8AnaZR50Qe_O8X-4DcRGQ98B4fVdeE_WFxfa3OKiKfi4lKmh0DP3nz7qgp4Y_Ch-ALThX8Q2d1ZOJI10",
-                "width" : 4032
-             }
-          ],
-          "place_id" : "ChIJqXfGF3xxhlQRAvL-tqjuoZk",
-          "plus_code" : {
-             "compound_code" : "7VHP+HQ Vancouver, BC, Canada",
-             "global_code" : "84XR7VHP+HQ"
-          },
-          "price_level" : 2,
-          "rating" : 3.6,
-          "reference" : "ChIJqXfGF3xxhlQRAvL-tqjuoZk",
-          "scope" : "GOOGLE",
-          "types" : [
-             "night_club",
-             "meal_delivery",
-             "meal_takeaway",
-             "bar",
-             "restaurant",
-             "food",
-             "point_of_interest",
-             "establishment"
-          ],
-          "user_ratings_total" : 402,
-          "vicinity" : "180 West Georgia Street, Vancouver"
-       },
-       {
-          "business_status" : "CLOSED_TEMPORARILY",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2853911,
-                "lng" : -123.1215501
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.2865665302915,
-                   "lng" : -123.1204599697085
-                },
-                "southwest" : {
-                   "lat" : 49.2838685697085,
-                   "lng" : -123.1231579302915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "Subway",
-          "permanently_closed" : true,
-          "photos" : [
-             {
-                "height" : 2048,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/108679954223206656399\"\u003eNaotaka Yamamoto\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uEBPS074L3Or8LGZcG2bEr_HmZOrX-zajkL2R7zEnuvhM5MWIfv6NaHQNsEzfgbi9M92VT1RRZUc14LRoKRcE9zYeDNTfPZh4lNLY1S6x80JnDy7HfOe8AkRznOSlFBIH3r8LS5j4wNPn65ZMnBE1ohnvllN1s_-xxXTtpmD5Arl3nz5",
-                "width" : 1152
-             }
-          ],
-          "place_id" : "ChIJwzHipIFxhlQRSKY9IKkeNks",
-          "plus_code" : {
-             "compound_code" : "7VPH+59 Vancouver, BC, Canada",
-             "global_code" : "84XR7VPH+59"
-          },
-          "price_level" : 1,
-          "rating" : 3.3,
-          "reference" : "ChIJwzHipIFxhlQRSKY9IKkeNks",
-          "scope" : "GOOGLE",
-          "types" : [
-             "meal_takeaway",
-             "restaurant",
-             "food",
-             "point_of_interest",
-             "establishment"
-          ],
-          "user_ratings_total" : 12,
-          "vicinity" : "1055 West Georgia Street Unit 232, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2802458,
-                "lng" : -123.1183486
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.2816524802915,
-                   "lng" : -123.1170392197085
-                },
-                "southwest" : {
-                   "lat" : 49.2789545197085,
-                   "lng" : -123.1197371802915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "JAPADOG",
-          "opening_hours" : {
-             "open_now" : true
-          },
-          "photos" : [
-             {
-                "height" : 1582,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/103802101068439356765\"\u003eJAPADOG\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uEAXb9iofjP6guhcbRMDkIYLbBdjjYNrbXKvvrZLx9EpKu6Z9jVi7sv0pXC36hxh5z4WORx4ZEZFk0VM_eODROEU7lGeyWtQLuo0bRU-7lZxw_5nws3OZAS6XoPEzrv6aPH25fw7rp2f-mybneHbLMk6YKhdv7WSXnkP-JhFU1rY8WNy",
-                "width" : 2811
-             }
-          ],
-          "place_id" : "ChIJv9OoAYBxhlQRBV7HNkJ_R9c",
-          "plus_code" : {
-             "compound_code" : "7VJJ+3M Vancouver, BC, Canada",
-             "global_code" : "84XR7VJJ+3M"
-          },
-          "price_level" : 1,
-          "rating" : 4.2,
-          "reference" : "ChIJv9OoAYBxhlQRBV7HNkJ_R9c",
-          "scope" : "GOOGLE",
-          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 2933,
-          "vicinity" : "530 Robson Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.276155,
-                "lng" : -123.121129
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.27745838029149,
-                   "lng" : -123.1196556197085
-                },
-                "southwest" : {
-                   "lat" : 49.27476041970849,
-                   "lng" : -123.1223535802915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "Blue Water Cafe",
-          "opening_hours" : {
-             "open_now" : false
-          },
-          "photos" : [
-             {
-                "height" : 3264,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/104031234057247974385\"\u003eBlue Water Cafe\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uECFbsqHAAeVwVWmMAnyaHIawv8Ps3PsDBOISW4gpBD7xZhymHK1ueFi60euQkdB9ob_x3iN6jeICkuj2YoBEWsA3ygKQB42smbLMndJ7hKrXukmC8fX3GWl4XepZ1DZsty2c6QbfjJkv4UypPmM6wyO24-0w9jGW3PBkhoL4v9Ruhdm",
-                "width" : 4928
-             }
-          ],
-          "place_id" : "ChIJZ04tZ9ZzhlQRDsJZp_cOS4U",
-          "plus_code" : {
-             "compound_code" : "7VGH+FG Vancouver, BC, Canada",
-             "global_code" : "84XR7VGH+FG"
-          },
-          "price_level" : 4,
-          "rating" : 4.7,
-          "reference" : "ChIJZ04tZ9ZzhlQRDsJZp_cOS4U",
-          "scope" : "GOOGLE",
-          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 2212,
-          "vicinity" : "1095 Hamilton Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2849486,
-                "lng" : -123.1245531
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.2862490302915,
-                   "lng" : -123.1231679697085
-                },
-                "southwest" : {
-                   "lat" : 49.28355106970851,
-                   "lng" : -123.1258659302915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "Joe Fortes Seafood & Chop House",
-          "opening_hours" : {
-             "open_now" : true
-          },
-          "photos" : [
-             {
-                "height" : 3744,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/114495899722095633472\"\u003eJoe Fortes Seafood &amp; Chop House\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uEAhN7OtAH7Oxelr7D3DDCNXIYJUPOeiaNdj_SSoWzJko_MSXzqY3OQFntm52EfUjEEt1Q6c32M4oluJ4PKUehAHyjBQujJRN-ltivBMnS6CpSKibZHOdGfh38XMVLDSHJ2Lmy-jKsbZroe2lboGgr4O0xe9dLxpjs7uGVyz7fDtOvNi",
-                "width" : 5616
-             }
-          ],
-          "place_id" : "ChIJiUwIWIBxhlQRzKG3k_9C-T8",
-          "plus_code" : {
-             "compound_code" : "7VMG+X5 Vancouver, BC, Canada",
-             "global_code" : "84XR7VMG+X5"
-          },
-          "price_level" : 3,
-          "rating" : 4.5,
-          "reference" : "ChIJiUwIWIBxhlQRzKG3k_9C-T8",
-          "scope" : "GOOGLE",
-          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 4719,
-          "vicinity" : "777 Thurlow Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.28260600000001,
-                "lng" : -123.1231879
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.2840916802915,
-                   "lng" : -123.1219636697085
-                },
-                "southwest" : {
-                   "lat" : 49.28139371970851,
-                   "lng" : -123.1246616302915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "JOEY Burrard",
-          "opening_hours" : {
-             "open_now" : true
-          },
-          "photos" : [
-             {
-                "height" : 316,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/106050036629399488847\"\u003eJOEY Burrard\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uEBCxJE43176mzQYdtxo0OVgbJg25VTT9S3hvlDVbymuDKSav1mnPQnNwb4_egD_y3g2C6Qoyy66zavyxp0PNqQAoiVFxTE_s0PpQW_7tDa5WN1ggABeYMgpkgjHF_Ip7K5eyOVgB-3qexIWKA28wdOUcsiFdqM6aFOJenGhSwPztb1s",
-                "width" : 829
-             }
-          ],
-          "place_id" : "ChIJx8zDGIBxhlQRU-OFjaGa-6Q",
-          "plus_code" : {
-             "compound_code" : "7VMG+2P Vancouver, BC, Canada",
-             "global_code" : "84XR7VMG+2P"
-          },
-          "price_level" : 2,
-          "rating" : 4.3,
-          "reference" : "ChIJx8zDGIBxhlQRU-OFjaGa-6Q",
-          "scope" : "GOOGLE",
-          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 2209,
-          "vicinity" : "820 Burrard Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2820093,
-                "lng" : -123.1080514
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.28343238029149,
-                   "lng" : -123.1066717197085
-                },
-                "southwest" : {
-                   "lat" : 49.2807344197085,
-                   "lng" : -123.1093696802915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "Catch 122 Cafe Bistro",
-          "opening_hours" : {
-             "open_now" : false
-          },
-          "photos" : [
-             {
-                "height" : 640,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/114234021168666613133\"\u003eCatch 122 Cafe Bistro\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uECefUunFT0MTxLhu0wF8f0gk5MpwcuXliP98MRkD1It4f__re8y47jf8KOAEZSd72OaPvFl1-dhwAQ-90-MNl5Yb1AFKBW-AmWv8Vs2I64VvctCbhebMWMTUQ858dPpCvjCQoSUVc7HD4hhnyaj7_mai9HGByWHl8xV3UqulJYn_2RU",
-                "width" : 640
-             }
-          ],
-          "place_id" : "ChIJ3QdMiXlxhlQRp3roxm24JZ4",
-          "plus_code" : {
-             "compound_code" : "7VJR+RQ Vancouver, BC, Canada",
-             "global_code" : "84XR7VJR+RQ"
-          },
-          "price_level" : 2,
-          "rating" : 4.3,
-          "reference" : "ChIJ3QdMiXlxhlQRp3roxm24JZ4",
-          "scope" : "GOOGLE",
-          "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 1176,
-          "vicinity" : "122 West Hastings Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.2782191,
-                "lng" : -123.1133987
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.2794741802915,
-                   "lng" : -123.1119168197085
-                },
-                "southwest" : {
-                   "lat" : 49.2767762197085,
-                   "lng" : -123.1146147802915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "Frankie's Italian Vancouver",
-          "opening_hours" : {
-             "open_now" : false
-          },
-          "photos" : [
-             {
-                "height" : 3024,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/110620364317504330123\"\u003eAmber Lynott\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uECFXVYOi6q9gQbaoFqw-ZwSDYoxInvbb__gkuXUefhWetABsvoffHj0DTpWEu_2VNE_YWneTL5SWbP164NMVC4UiE5PFIuyi6QtaAbkN9G417vxyjiWOqfqcPvLRhRnumzzbn14PoJUo81cgYp02vmYBc4WYtPCxbbZDEwejAxRR2ew",
-                "width" : 4032
-             }
-          ],
-          "place_id" : "ChIJ4RL7TnxxhlQRTQkUNQSm-NA",
-          "plus_code" : {
-             "compound_code" : "7VHP+7J Vancouver, BC, Canada",
-             "global_code" : "84XR7VHP+7J"
-          },
-          "price_level" : 2,
-          "rating" : 4.2,
-          "reference" : "ChIJ4RL7TnxxhlQRTQkUNQSm-NA",
-          "scope" : "GOOGLE",
-          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 909,
-          "vicinity" : "765 Beatty Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.27820939999999,
-                "lng" : -123.1173332
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.27948028029149,
-                   "lng" : -123.1158696697085
-                },
-                "southwest" : {
-                   "lat" : 49.2767823197085,
-                   "lng" : -123.1185676302915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "Lupo Restaurant & Vinoteca",
-          "opening_hours" : {
-             "open_now" : false
-          },
-          "photos" : [
-             {
-                "height" : 3024,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/111663888837718611061\"\u003eSimon Law\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uEDP9TAo6zk2B9yvSlXagjUhELpuqYL7tK8zAmmi6IDd2uGM7DHovKi6Xw75yZoXoIEfIyBNNeGUou2QFw3JW69mUKeDhwuwR-hfZduFkCIm84IM3kdYgijBhk3MmgjYMB7UCfeAEjjb72QMSLy8bvFAgLATn7Oog6ikVNHA5vu696fw",
-                "width" : 4032
-             }
-          ],
-          "place_id" : "ChIJndZa5n1xhlQRVrRPA1d--UM",
-          "plus_code" : {
-             "compound_code" : "7VHM+73 Vancouver, BC, Canada",
-             "global_code" : "84XR7VHM+73"
-          },
-          "price_level" : 3,
-          "rating" : 4.5,
-          "reference" : "ChIJndZa5n1xhlQRVrRPA1d--UM",
-          "scope" : "GOOGLE",
-          "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 781,
-          "vicinity" : "869 Hamilton Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.28384819999999,
-                "lng" : -123.105329
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.2850989802915,
-                   "lng" : -123.1039123197085
-                },
-                "southwest" : {
-                   "lat" : 49.2824010197085,
-                   "lng" : -123.1066102802915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "The Old Spaghetti Factory",
-          "opening_hours" : {
-             "open_now" : true
-          },
-          "photos" : [
-             {
-                "height" : 1371,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/102973331948582059422\"\u003eThe Old Spaghetti Factory (Gastown)\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uECiePFfSIprgJ_knCdX0fYL7mf72sD9KD2g1kkTX0T_mtaoNyiFC5351cFwEcSZldrBZUFjBr904YEvBdPbSRM4p07jJabTXJiMAFgRXFLfaybD1Fygrh_D2vLYu8BW4ZswNJjFIKjO01hhRRf3YYjAPEIG5YmvcAvI8tWT5Y17myb0",
-                "width" : 2048
-             }
-          ],
-          "place_id" : "ChIJEwXWQndxhlQRRKy4phazLq0",
-          "plus_code" : {
-             "compound_code" : "7VMV+GV Vancouver, BC, Canada",
-             "global_code" : "84XR7VMV+GV"
-          },
-          "price_level" : 2,
-          "rating" : 4.4,
-          "reference" : "ChIJEwXWQndxhlQRRKy4phazLq0",
-          "scope" : "GOOGLE",
-          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 5501,
-          "vicinity" : "53 Water Street, Vancouver"
-       },
-       {
-          "business_status" : "OPERATIONAL",
-          "geometry" : {
-             "location" : {
-                "lat" : 49.28399109999999,
-                "lng" : -123.1223267
-             },
-             "viewport" : {
-                "northeast" : {
-                   "lat" : 49.28544848029149,
-                   "lng" : -123.1208027197085
-                },
-                "southwest" : {
-                   "lat" : 49.28275051970849,
-                   "lng" : -123.1235006802915
-                }
-             }
-          },
-          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-          "icon_background_color" : "#FF9E67",
-          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-          "name" : "Shabusen Yakiniku House",
-          "opening_hours" : {
-             "open_now" : false
-          },
-          "photos" : [
-             {
-                "height" : 3024,
-                "html_attributions" : [
-                   "\u003ca href=\"https://maps.google.com/maps/contrib/114843140639738184875\"\u003e吳承洲\u003c/a\u003e"
-                ],
-                "photo_reference" : "Aap_uEDcLNdufOx48rNmtqL4CRjkWouYBGcJBJiw6vIm2LnEg5Umy9zDN0Y_sxA9NHS_YROYRCOFZfis937Eh_fhdiItz7JWU2gjGOVnqU90lHnk1k82694Ajj4nZA0sM4Z99l29s43CipPhgOFiqbHQPWW_Q52Y0hC-fTRAxwibI9D7pTKE",
-                "width" : 4032
-             }
-          ],
-          "place_id" : "ChIJ5Ts9M4BxhlQR_rjCXBU5V_M",
-          "plus_code" : {
-             "compound_code" : "7VMH+H3 Vancouver, BC, Canada",
-             "global_code" : "84XR7VMH+H3"
-          },
-          "price_level" : 2,
-          "rating" : 3.7,
-          "reference" : "ChIJ5Ts9M4BxhlQR_rjCXBU5V_M",
-          "scope" : "GOOGLE",
-          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-          "user_ratings_total" : 2232,
-          "vicinity" : "755 Burrard Street #202, Vancouver"
-       }
-    ],
-    "status" : "OK"
- }
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEB-Tz2UPY0irlubdqJ8J9gOYoe8QiBYiaM0oZGWK9g3RdGPdhI2sPx5IOyPn9F-9nLhQBwsa2qW82qB8R1lkR1H6HoSKZhl3hRCCkNHVrznyZgMODip6ng9wBx45axsuU1VxX_kGtLnasdkFPZ2b36UYCRbaZv9XnsZxu5VXReHeqJqgDzi2Ow-s4342r6lM4n9MG_npHV7Oxwdb7ebkvRe4s7dG9MwnZv1x1yMdOfNwm66UQ5tfayYnmsXOzcoOF20kc4s5k_TYCCAi0fK6MjxNYnxTIxbTxpZa41CF9vFWnPBV_UpDAyD6lVxiMZVAojWtHKyisOoM0zC2ihFSMmua5RCVBA9p0CeA42mss1NocrQYg1xOVUY6p1uYonGFkZYAPBljEfjdv94eH0mDluj7JpTf3WANsgPbFbvcdBr",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2827291,
+               "lng" : -123.1207375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.31729388457754,
+                  "lng" : -123.0230679546923
+               },
+               "southwest" : {
+                  "lat" : 49.19817697810642,
+                  "lng" : -123.2247399916918
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Vancouver",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111514911850243953313\"\u003eAnna Nyman\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB9AmYY8vSkt0pF4AM7jt4QhKrd0khaJ8Edwi2dpbk4_I2uFcSq0xwwHMWytz9SWBhHOu5xj_Lp2JbDHPs9h96YeR2LaK8jQc6uhjjosJDO78ZaeaL8LcsXYZeEPaRgpMNPQmNBLCxKuOxJGhi7Ozv_XL964DKyjCxvj8POM201h_Jv",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+         "reference" : "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28306449999999,
+               "lng" : -123.1158964
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2844337302915,
+                  "lng" : -123.1144277697085
+               },
+               "southwest" : {
+                  "lat" : 49.2817357697085,
+                  "lng" : -123.1171257302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "St Regis Hotel",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101198118424427969070\"\u003eSt Regis Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBin13750mPHtKGCNDqWpQfgCCNQTU0XkB20YxBGaK7tVvsiKzm46XdRbOa0JgU37L56xjqcrDil4-pNrQB5vEOji6_gL2aFjkPLJH5WBo0-bJf2Htc7Tde4AG_KlS6qvqPaTtI8dXDQNwHI_lxaLpaSZZue_Fq588nm4W0S3eLCiZR",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJycSMzHhxhlQRla5R4ZvYGEg",
+         "plus_code" : {
+            "compound_code" : "7VMM+6J Vancouver, BC, Canada",
+            "global_code" : "84XR7VMM+6J"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJycSMzHhxhlQRla5R4ZvYGEg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 570,
+         "vicinity" : "602 Dunsmuir Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28346500000001,
+               "lng" : -123.119031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2847833802915,
+                  "lng" : -123.1175735697085
+               },
+               "southwest" : {
+                  "lat" : 49.2820854197085,
+                  "lng" : -123.1202715302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Rosewood Hotel Georgia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112684270978827615191\"\u003eRosewood Hotel Georgia\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECN-YJYkN6Q8vmgm4NZC5ekKNaFab9XtCwcuBT-tgrGI3j4x-uzUfTk1xwLHXOfFqKpq2KksAg8j9uBftQDG6GGPFgdALoeLi1aKuXd_CETHTmsc_qzuh5Kylp0MXsnTubFv-IH3ExUJJmEzwuPvHkWKkmUdIODleJT-PrnpD6DZWkF",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJgQmKXX9xhlQRXmNfRsbZ4w4",
+         "plus_code" : {
+            "compound_code" : "7VMJ+99 Vancouver, BC, Canada",
+            "global_code" : "84XR7VMJ+99"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJgQmKXX9xhlQRXmNfRsbZ4w4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1639,
+         "vicinity" : "801 West Georgia Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2837112,
+               "lng" : -123.1211176
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2850760302915,
+                  "lng" : -123.1196651197085
+               },
+               "southwest" : {
+                  "lat" : 49.2823780697085,
+                  "lng" : -123.1223630802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Fairmont Hotel Vancouver",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116749430061067994858\"\u003eFairmont Hotel Vancouver\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED2XEjcvwAVcZlslMtkf1ex52pJ4b_aD2IEhLmygJA3Cgt0X3rWg7_Ww-MfWGpVvTqqP0EeGA3ZnZNGJlDvqxxvLi3vVntscXPfuJu5M1YqgY6sCDJwlX2gJYOQRgLXHdGMvPRSlxsI7GvO7mVLbU4FB-gYlZQzz4XusB8SkULDGfNc",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJHbH93TGoqEwRMwrQGCOk9B4",
+         "plus_code" : {
+            "compound_code" : "7VMH+FH Vancouver, BC, Canada",
+            "global_code" : "84XR7VMH+FH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJHbH93TGoqEwRMwrQGCOk9B4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4315,
+         "vicinity" : "900 West Georgia Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.27889159999999,
+               "lng" : -123.1130907
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2802615302915,
+                  "lng" : -123.1115256697085
+               },
+               "southwest" : {
+                  "lat" : 49.2775635697085,
+                  "lng" : -123.1142236302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Sandman Hotel Vancouver Downtown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 740,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102645036937875234578\"\u003eSandman Hotel Vancouver Downtown\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBg9DGCB9y14m3SGSnP_zlVdOxQReZ7Qb9DJe3WpC00MsRb-DnFr__Nw7SpdCLn-wHJVY1F7tznRhX56OWSRuOwKEPoMawTo6CU9TI3Q3zbXCU8ddCyIbl0RUgXNFuOoy-SGIdguZDgvBJX-BrOMpVuwCss1-Dt8D54KjWwuxcXUA32",
+               "width" : 634
+            }
+         ],
+         "place_id" : "ChIJqXfGF3xxhlQRD_iQZvke8Fs",
+         "plus_code" : {
+            "compound_code" : "7VHP+HQ Vancouver, BC, Canada",
+            "global_code" : "84XR7VHP+HQ"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJqXfGF3xxhlQRD_iQZvke8Fs",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2091,
+         "vicinity" : "180 West Georgia Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2782588,
+               "lng" : -123.1135834
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2794396302915,
+                  "lng" : -123.1121149197085
+               },
+               "southwest" : {
+                  "lat" : 49.2767416697085,
+                  "lng" : -123.1148128802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Georgian Court Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3240,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101862402566757548985\"\u003eGeorgian Court Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBPreSS71mqOpgFEoyuAgjniFt8WuJ6vE444qgKv2D7MoaYFb6f5PqUx4Uk-8wUvvVkOoibCGry5TFWm_cTDiNmTyQQGeaoz02u9ES7ehnHQpMrSRUsEzBkrxKouURFHF8GK78zpAJ6p1JUlROvHaXLTrskMV_a8MTWSkE8xxsiAnQA",
+               "width" : 5760
+            }
+         ],
+         "place_id" : "ChIJNao9SXxxhlQRHO2SUhKSaFA",
+         "plus_code" : {
+            "compound_code" : "7VHP+8H Vancouver, BC, Canada",
+            "global_code" : "84XR7VHP+8H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJNao9SXxxhlQRHO2SUhKSaFA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 930,
+         "vicinity" : "773 Beatty Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2808927,
+               "lng" : -123.1270959
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2824090302915,
+                  "lng" : -123.1260394697085
+               },
+               "southwest" : {
+                  "lat" : 49.2797110697085,
+                  "lng" : -123.1287374302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Century Plaza Hotel & Spa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111270082773451070404\"\u003eCentury Plaza Hotel &amp; Spa\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEChjiirBkskNri4milzjx_nDKctKYlIs_36a3DQCLeHL0czOaWch1VMkARjLgSNzkhV-skg8F_TDZNSXgJ67zBDbmeU4fgATLTO7pmbQzy_97TwOPwN7GRG2PBpKC4Y_f4ppouZ3TDg63VA_fIdHeQK__X9csg7QdfhLYX_fdDJ_G4",
+               "width" : 7199
+            }
+         ],
+         "place_id" : "ChIJOU7iNdVzhlQRSLS7d_-wiyQ",
+         "plus_code" : {
+            "compound_code" : "7VJF+95 Vancouver, BC, Canada",
+            "global_code" : "84XR7VJF+95"
+         },
+         "rating" : 4,
+         "reference" : "ChIJOU7iNdVzhlQRSLS7d_-wiyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1261,
+         "vicinity" : "1015 Burrard Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.27617100000001,
+               "lng" : -123.1301471
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.27750743029149,
+                  "lng" : -123.1288872697085
+               },
+               "southwest" : {
+                  "lat" : 49.2748094697085,
+                  "lng" : -123.1315852302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Executive Hotel Vintage Park Vancouver",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116046584014436725326\"\u003eExecutive Hotel Vintage Park Vancouver\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECTUWf4ir-1aBkV8it1FZB0J4cW-kKUhq1uTq2hvue4tOO-KEwezkTeZr9NHEJ7-n3-TZW2ikQ3kILUCHS0gM6Jow77FAC2-CQs9pl_QQwbyd6m_hvQtmsEw4ZnEgdfv4O7Dq8nyjd2SLofN1zQY8nDBvbxthGKFFIPxXYjrkZljNvC",
+               "width" : 1223
+            }
+         ],
+         "place_id" : "ChIJEenQuNNzhlQRYBLvIjoqPJE",
+         "plus_code" : {
+            "compound_code" : "7VG9+FW Vancouver, BC, Canada",
+            "global_code" : "84XR7VG9+FW"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJEenQuNNzhlQRYBLvIjoqPJE",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 844,
+         "vicinity" : "1379 Howe Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2771103,
+               "lng" : -123.1269029
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2783319302915,
+                  "lng" : -123.1254175197085
+               },
+               "southwest" : {
+                  "lat" : 49.2756339697085,
+                  "lng" : -123.1281154802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Ramada by Wyndham Vancouver Downtown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103013488434338427104\"\u003eRamada by Wyndham Vancouver Downtown\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDDDjsfQLdn3-C4ejjwZdWsKWdeL8qCzIF41jqQPeSbdc93EA5P2WpGfM5BX2fnLcZaX1_2t1QkjgXqZBQNzo78B2hRDfGoojnLyzvbxZ4LVLVlmLCYzwsyZgLiuRqGoPFrUPKs6am8g321Z5d21EV7qzUkiw7h_FkinsRAY8cJKmO-",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJ2fNpE9RzhlQRi2kw2UYSTbw",
+         "plus_code" : {
+            "compound_code" : "7VGF+R6 Vancouver, BC, Canada",
+            "global_code" : "84XR7VGF+R6"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJ2fNpE9RzhlQRi2kw2UYSTbw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1065,
+         "vicinity" : "1221 Granville Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.280314,
+               "lng" : -123.1264736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28157948029151,
+                  "lng" : -123.12419005
+               },
+               "southwest" : {
+                  "lat" : 49.27888151970851,
+                  "lng" : -123.12807625
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Sheraton Vancouver Wall Centre",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101227153217952264313\"\u003eSheraton Vancouver Wall Centre\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBrkrA_wlzcrL2nYY7NLL6kSS0-_ZlqgUeUfVJZvdwKDFY1oRi97bBaxHWXS1nHq16R7nrI3w37TJbwDG0QKpP-6aQWO1pJnU3Nf6VoAK9sj0e71F0aDEanvjy-RZndASj-IPGERtyohsGJYM2afDLEESNVDiAOVPeWRTLSMix5fVvX",
+               "width" : 1706
+            }
+         ],
+         "place_id" : "ChIJ6wwnJtVzhlQRwYCWCmD7kjM",
+         "plus_code" : {
+            "compound_code" : "7VJF+4C Vancouver, BC, Canada",
+            "global_code" : "84XR7VJF+4C"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ6wwnJtVzhlQRwYCWCmD7kjM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4129,
+         "vicinity" : "1000 Burrard Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2853096,
+               "lng" : -123.1207679
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2865168302915,
+                  "lng" : -123.1191956197085
+               },
+               "southwest" : {
+                  "lat" : 49.2838188697085,
+                  "lng" : -123.1218935802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Hyatt Regency Vancouver",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115838868134690303970\"\u003eHyatt Regency Vancouver\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAeAV165XajlJg0e4p0IvnHVrz08t-gCpOwgjbHbbxK7ejIdCKRU0ED-vwt3ri3d2VzkaWRcHG3xbZH6FgWV9ql4Av6gHHFEaJfOgqbnGaxXoePVfqXrb6cMfYzCtG3bi3RFvAV7ohcYYSiCikG3ONilPjGRml9SKYRXwxh1VWxIoDa",
+               "width" : 2880
+            }
+         ],
+         "place_id" : "ChIJ0xgBlYFxhlQR37h9Wi6s02Q",
+         "plus_code" : {
+            "compound_code" : "7VPH+4M Vancouver, BC, Canada",
+            "global_code" : "84XR7VPH+4M"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ0xgBlYFxhlQR37h9Wi6s02Q",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3269,
+         "vicinity" : "655 Burrard Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28784779999999,
+               "lng" : -123.1205131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28943968029149,
+                  "lng" : -123.1192471197085
+               },
+               "southwest" : {
+                  "lat" : 49.28674171970849,
+                  "lng" : -123.1219450802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Vancouver Marriott Pinnacle Downtown Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113069887832359714491\"\u003eVancouver Marriott Pinnacle Downtown Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBxtMV-QcJpi3WLArdHEy1jZKt0p89vjBjeD8Dw8RJUzm-EaVHfnSCUH6grw_LFVLHPRF1aOXaTS9hKiXeC1dNYJ8EEtNi6ZYw_VqATNLdOVxuzYzks7s1MP3iQN1HJM1JYcnZlQcxgd9UqGyLEi9ttpA3zsl2C42AUDhhO1-uaAPDY",
+               "width" : 1366
+            }
+         ],
+         "place_id" : "ChIJDW7I74NxhlQRmBlMjYR2iTY",
+         "plus_code" : {
+            "compound_code" : "7VQH+4Q Vancouver, BC, Canada",
+            "global_code" : "84XR7VQH+4Q"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJDW7I74NxhlQRmBlMjYR2iTY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2135,
+         "vicinity" : "1128 West Hastings Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2778093,
+               "lng" : -123.1246489
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2792758302915,
+                  "lng" : -123.1232201197085
+               },
+               "southwest" : {
+                  "lat" : 49.2765778697085,
+                  "lng" : -123.1259180802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Best Western Premier Chateau Granville Hotel & Suites & Conf. Centre",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4912,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114076172069086120946\"\u003eBest Western Premier Chateau Granville Hotel &amp; Suites &amp; Conf. Centre\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAAIlRE0_4lXll7FvALy6OwDJ1mUdUGSMIZUO30MC5WhFfA0eXXOwpr0gnQ7rN7sP6CiN6sgbbPPyNlzGD_TOSFN57yMRyNuywxXV5TjhQBIhZYhgQ0x3vHyVBAia_9JwZDMgci8ViTX9kn9XNOMojZtp0dnLCQQP5QtFK4bNyqh_ld",
+               "width" : 7360
+            }
+         ],
+         "place_id" : "ChIJSwzZS9RzhlQRdUN5TiKi3xE",
+         "plus_code" : {
+            "compound_code" : "7VHG+44 Vancouver, BC, Canada",
+            "global_code" : "84XR7VHG+44"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJSwzZS9RzhlQRdUN5TiKi3xE",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1571,
+         "vicinity" : "1100 Granville Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2876975,
+               "lng" : -123.126731
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2891377802915,
+                  "lng" : -123.1252432197085
+               },
+               "southwest" : {
+                  "lat" : 49.2864398197085,
+                  "lng" : -123.1279411802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Vancouver Extended Stay",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 675,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106316720929757305094\"\u003eVancouver Extended Stay\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDBoa7U0t0wGw7WcQJMRwoYWLUtoVB2Xyz3fiXdCl7jprA2cKCsCFC2DC5CDf7b3HQjgDZwJ-cqGrTg46eWgltUoI7g-fuLxzRgrQRfnHCkf-2LQq-_9-aFTs970ovyBs4kA9_1YboypKLdW4eJJPYTT_wiMr-huv9K4tB0QEIKKZY",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ6Thf14ZxhlQRK7Ws5c05xZU",
+         "plus_code" : {
+            "compound_code" : "7VQF+38 Vancouver, BC, Canada",
+            "global_code" : "84XR7VQF+38"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ6Thf14ZxhlQRK7Ws5c05xZU",
+         "scope" : "GOOGLE",
+         "types" : [ "real_estate_agency", "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "101-1288 West Georgia Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2875596,
+               "lng" : -123.123279
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2888368302915,
+                  "lng" : -123.1220400197085
+               },
+               "southwest" : {
+                  "lat" : 49.2861388697085,
+                  "lng" : -123.1247379802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Loden Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2953,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105263599915908981781\"\u003eLoden Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEApOnyWRDv7ciOMrdpAZHrpTYABHcnx-h1PwleqRKO1hCaxxUvwhTQk2qVVrK4gmZeM18pwemjF2oouu1USykM3pKWhu1gGGwPfnsejYZvQqZKsGdRbgNqdTuon4pPHDfX4K1zyfR4RfHN13vh6vwQ19M9s2e6TBIRtDiHQQ6p12y8h",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJc0kRT4FxhlQRlW6SuJBUJE4",
+         "plus_code" : {
+            "compound_code" : "7VQG+2M Vancouver, BC, Canada",
+            "global_code" : "84XR7VQG+2M"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJc0kRT4FxhlQRlW6SuJBUJE4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 441,
+         "vicinity" : "1177 Melville Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2746032,
+               "lng" : -123.1226017
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.27589193029149,
+                  "lng" : -123.1211572197085
+               },
+               "southwest" : {
+                  "lat" : 49.27319396970849,
+                  "lng" : -123.1238551802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "OPUS Vancouver",
+         "photos" : [
+            {
+               "height" : 3310,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109243913535211669274\"\u003eOPUS Vancouver\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECnSt5_MeExzgClvRiTPugF0z-3DDT6m86OhakyyrpRJhHIpCqDMUREg4t8xKJBB59qq8mF4PNdGtB22Gg-3S9Z_r6JN1zWVvn0HguP6-TvaDI23QXWBj753bAGWl8kOrGuyueJpE_W7PBXDM-2IoggbRDeNOszI0rRWJyATA6g99ON",
+               "width" : 4073
+            }
+         ],
+         "place_id" : "ChIJkYNgwtZzhlQRDyKMepVlARQ",
+         "plus_code" : {
+            "compound_code" : "7VFG+RX Vancouver, BC, Canada",
+            "global_code" : "84XR7VFG+RX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJkYNgwtZzhlQRDyKMepVlARQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "lodging",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 482,
+         "vicinity" : "322 Davie Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28399450000001,
+               "lng" : -123.1183364
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2852211302915,
+                  "lng" : -123.1168686197085
+               },
+               "southwest" : {
+                  "lat" : 49.2825231697085,
+                  "lng" : -123.1195665802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Metropolitan Hotel Vancouver",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102324642527254544527\"\u003eMetropolitan Hotel Vancouver\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDElaeUlcLydnUajGMT2sGXtMNTxm4KL9x6p35JELbzdpa5QvhJeeY9uEZGLpgm5YiWE87MMSfZNW4VCfQC7y-BwxqEataInJ6UevhsjSY7huy0ufqRdOCEhuw2invLjdsWk_8yjCYya-8tkWlx6rlC1SwoXyk8LgHWQjnMz5BP1UKN",
+               "width" : 1366
+            }
+         ],
+         "place_id" : "ChIJVTmSWX9xhlQRqd9N0PQEwS4",
+         "plus_code" : {
+            "compound_code" : "7VMJ+HM Vancouver, BC, Canada",
+            "global_code" : "84XR7VMJ+HM"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJVTmSWX9xhlQRqd9N0PQEwS4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 879,
+         "vicinity" : "645 Howe Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2826575,
+               "lng" : -123.1142031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2839756802915,
+                  "lng" : -123.1128081697085
+               },
+               "southwest" : {
+                  "lat" : 49.28127771970851,
+                  "lng" : -123.1155061302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "St Clair Hotel-Hostel Vancouver",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 472,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117226547622849891865\"\u003eSt Clair Hotel-Hostel Vancouver\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED6yJX0O_Bptc-hqMp5HI9tmSBzcvHEgB_XJkUB5RSfELepNiKdBM5As_zfD_v30oenwN277ziplF2227ZS3lJRg_qyO_ar5ebpbl96hw0j7MzMVudmfYWOd58PLzOuvNoxKT5PRib3T3udS4csH4kyKuzIcMJ6u_gtZW6nsMx2t0w6",
+               "width" : 1005
+            }
+         ],
+         "place_id" : "ChIJn54q2HhxhlQRg1AMN8IXgYM",
+         "plus_code" : {
+            "compound_code" : "7VMP+38 Vancouver, BC, Canada",
+            "global_code" : "84XR7VMP+38"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJn54q2HhxhlQRg1AMN8IXgYM",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 287,
+         "vicinity" : "577 Richards Street, Vancouver"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2864347,
+               "lng" : -123.1274033
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2877525802915,
+                  "lng" : -123.1261642197085
+               },
+               "southwest" : {
+                  "lat" : 49.2850546197085,
+                  "lng" : -123.1288621802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Blue Horizon Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1367,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107460137883105102792\"\u003eBlue Horizon Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED4Z5lKo5GmSlHAwowjsJ0X5FyZCtTWNkRnjtsIid-P_wvxDc_izmpLUk1CPA-_ARZ35l03hDwyxOOUUuuYv5kYj7P9_BLZxjOB7hgTK6nsxN-rjcCjuvFjhuJGZ6VQaXQeL9tvyr1yMLurmkXLTQ5oBmWtaztEOpKqW8Cr5Rqk-BIc",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJPQaRyYBxhlQRulZPPcLufQI",
+         "plus_code" : {
+            "compound_code" : "7VPF+H2 Vancouver, BC, Canada",
+            "global_code" : "84XR7VPF+H2"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJPQaRyYBxhlQRulZPPcLufQI",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1173,
+         "vicinity" : "1225 Robson Street, Vancouver"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2530487,
+               "lng" : -123.0663828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.29413394901052,
+                  "lng" : -123.0230679546923
+               },
+               "southwest" : {
+                  "lat" : 49.20146902924883,
+                  "lng" : -123.1183487621209
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "East Vancouver",
+         "photos" : [
+            {
+               "height" : 1800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103165397529094312372\"\u003eEfren Isonza\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAZn6nl35fWHxkUtXhA70wXE092KFQDE5dXRjO_iU6cyuzeicjF1aWfhUMCC4TCAKVh9cvvbiNtHm2xTuGQ-PsJkWQk00JvfkN1IWvHHLLi7lrXiANxXtXMA-iI5j85Ihu5C_ZIsCvU-L9jQpASvbEjEByw9_l9AgQto7nYHBLtkVIV",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJYfR5TV9xhlQRrFUa5caFrbg",
+         "reference" : "ChIJYfR5TV9xhlQRrFUa5caFrbg",
+         "scope" : "GOOGLE",
+         "types" : [ "neighborhood", "political" ],
+         "vicinity" : "Vancouver"
+      }
+   ],
+   "status" : "OK"
+}
