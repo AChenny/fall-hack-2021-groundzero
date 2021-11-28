@@ -69,8 +69,8 @@ def heatmap(restaruants, lat, lng, filename):
     gmaps.configure(api_key=GMAPKEY)
     input = restaruants
     fig = gmaps.figure(center=(lat, lng), zoom_level=13, layout={
-            'width': '1920px',
-            'height': '920px',
+            'width': '1800px',
+            'height': '850px',
             'padding': '3px',
             'border': '1px solid black'})
     locations = input
