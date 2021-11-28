@@ -34,7 +34,6 @@ class IndexView(generic.DetailView):
                 return render(request, filename, { 'form':geolocation()})
 
             url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" + str(lat) + "%2C" + str(lng) +"&radius=" + RADIUS + "&types=restaurant&key=" + GMAPKEY
-            print(f'{url=}')
             resp = requests.get(url=url)
             respInput = resp.json()
 
