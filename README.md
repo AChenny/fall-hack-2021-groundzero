@@ -42,3 +42,6 @@ py -m pip install virtualenv
    py -m pip install -r requirements.txt
    ```
 
+
+# Building Ground Zero
+'django manage.py runserver'
